@@ -7,6 +7,6 @@ During a computer system’s day-to-day operations, it makes use of various data
 
 ## Contributors
 <b> The Project is Contributed by: </b>
-* [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
-* [Faiq Nadeem](https://github.com/)
-* [Syed Haris Ahmed](https://github.com/)
+* [Muhammad Owais Mushtaq](https://www.linkedin.com/in/muhammadowaismushtaq)
+* [Faiq Nadeem](https://www.linkedin.com/in/faiq-nadeem-014435182/)
+* [Syed Haris Ahmed](https://www.linkedin.com/in/haris-syed-323401228/)
